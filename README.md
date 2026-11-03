@@ -1,28 +1,28 @@
-#Workshop--1-Adding-Sunglasses-to-Your-Passport-Photo-Using-OpenCV
+# Workshop--1-Adding-Sunglasses-to-Your-Passport-Photo-Using-OpenCV
 
-##Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
+## Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
 Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
 
-##Features:
+## Features:
 Detects the face in an image.
 Places a stylish sunglass overlay perfectly on the face.
 Works seamlessly with individual passport-size photos.
 Customizable for different sunglasses styles or photo types.
 
-##Technologies Used:
+## Technologies Used:
 Python
 OpenCV for image processing
 Numpy for array manipulations
 
-##How to Use:
+## How to Use:
 Clone this repository.
 Add your passport-sized photo to the images folder.
 Run the script to see your "cool" transformation!
 
-##Applications:
+## Applications:
 Learning basic image processing techniques.
 Adding flair to your photos for fun.
 Practicing computer vision workflows.
