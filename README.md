@@ -75,7 +75,8 @@ plt.figure(figsize=[20,20]);
 plt.subplot(121);plt.imshow(faceImage[:,:,::-1]); plt.title("Original Image");
 plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With Sunglasses");
 ```
-OUTPUT:
+## OUTPUT:
+
 <img width="632" height="648" alt="Screenshot 2026-11-04 010208" src="https://github.com/user-attachments/assets/a86dba94-b71b-4d3b-8b53-6b9e920b3c9e" />
 
 <img width="767" height="380" alt="Screenshot 2026-11-04 010225" src="https://github.com/user-attachments/assets/54858dce-1d25-4bd7-811d-9ce222fa2cea" />
